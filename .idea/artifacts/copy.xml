@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="copy">
+    <output-path>$USER_HOME$/Asztal</output-path>
+    <root id="archive" name="copy.jar">
+      <element id="module-output" name="FileCopyProgressBar" />
+    </root>
+  </artifact>
+</component>
